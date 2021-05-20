@@ -8,4 +8,4 @@ Site responsivo para estudo dos recurso de HTML/CSS e JAVASCRIPT
 - :checkered_flag: Release
  
  
- você pode ver o resultado aqui: https://fariasmi.github.io/site-responsivo/
+ você pode ver o resultado [aqui](https://fariasmi.github.io/site-responsivo/)
